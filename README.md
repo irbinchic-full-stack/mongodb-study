@@ -20,8 +20,9 @@ Read the following documentation, following along with all demos.  Also please
 watch the video in its entirety.
 
 - [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained)
-- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
 - [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
+- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
+- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 
 ## [License](LICENSE)
 
