@@ -12,7 +12,7 @@
 By the end of this, developers should be able to:
 
 -   Explain the benifits and disadvantages NoSQL
--   Comprehend the fanboy nature of mongoDB.
+-   Comprehend the fanboy nature of MongoDB.
 
 ## Instructions
 
