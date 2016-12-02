@@ -24,6 +24,9 @@ watch the video in its entirety.
 - [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
 - [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb) (Level 1)
 
+Install Mongodb by running `brew install mongodb` then to make sure you are up
+to date run `brew update` then `brew upgrade mongo`.
+
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
