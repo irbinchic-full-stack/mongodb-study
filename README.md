@@ -11,24 +11,20 @@
 
 By the end of this, developers should be able to:
 
--   Explain the benifits and disadvantages NoSQL
+-   Explain the advantages and disadvantages NoSQL
 -   Comprehend the fanboy nature of MongoDB.
 
 ## Instructions
 
-Read the following documentation, following along with all demos.  Also please
-watch the video in its entirety.
+1.  Fork and clone this repository.
+1.  Change into the new directory.
+1.  Create and checkout a new branch, named `response`.
+1.  Follow the directions given in [`study.md`](study.md).
+1.  When finished, push to your fork and submit a pull request.
 
-- [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained)
-- [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
-- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
-- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb) (Level 1)
-
-Install Mongodb by running `brew install mongodb` then to make sure you are up
-to date run `brew update` then `brew upgrade mongo`.
 
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
-alternative licensing, please contact legal@ga.co.
+    alternative licensing, please contact legal@ga.co.
